@@ -1,0 +1,16 @@
+# IDE
+.vscode
+.idea
+
+# Node dependecy directories
+node_modules/
+*/node_modules
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# masOS files
+.DS_Store
